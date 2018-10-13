@@ -29,33 +29,30 @@ The goal of this project is to use Elixir and the actor model to build a good so
 # Results:
 
 1.Instructions for running thecode
-  a. For Ubuntu basedsystems
+  1. For Ubuntu basedsystems
     1. Go the project directory
     2. Type the command in the terminal: mix escript.build(Optional)
-    3. Type the command in the terminal: ./project1 10000004
-    4. Here the first command line argument is the value of&#39;n&#39;
-    5. Here the second command line argument is the value of&#39;k&#39;
-    6. General command: ./project1 \&lt;n\&gt;\&lt;k\&gt;
+    3. Type the command in the terminal: ./project1 1000000 4
+    4. Here the first command line argument is the value of ‘n’
+    5. Here the second command line argument is the value of ‘k’
+    6. General command: ./project1 <n> <k>
 
   
-  b. For Windows
+  2. For Windows
     1. Go the project directory
-    2. Type the command in the cmd: mix escript.build(Optional)
-    3. Type the command in the cmd: escript .\project1 10000004
-    4. Here the first command line argument is the value of&#39;n&#39;
-    5. Here the second command line argument is the value of&#39;k&#39;
-    6. General command: escript .\project1 \&lt;n\&gt;\&lt;k\&gt;
+    2. Type the command in the cmd: mix escript.build (Optional)
+    3. Type the command in the cmd: escript .\project1 1000000 4
+    4. Here the first command line argument is the value of ‘n’
+    5. Here the second command line argument is the value of ‘k’
+    6. General command: escript .\project1 <n> <k>
 2.Result of running theprogram
-
 Command given:   ./project1 1000000 4
-
 Nonumberwasprinted.Thismeansthatthereareno4consecutivenumberswhosesum of squares is a perfectsquare.
-
-When only &#39;End of Output&#39; is printed, it means no number wasprinted.
+When only ‘End of Output’ is printed, it means no number was printed.
 
 3.OutputFormat
 
- a)First all the start indices which follow the Lucas Square Pyramid Principle willbedisplayed line by
- b)Then &#39;End of Output&#39; is
- c)When only &#39;End of Output&#39; is printed, it means no number was
- d)The list of numbers is not printed in sorted
+ 1.First all the start indices which follow the Lucas Square Pyramid Principle willbedisplayed line by
+ 2.Then &#39;End of Output&#39; is
+ 3.When only ‘End of Output’ is printed, it means no number was printed.
+ 4.The list of numbers is not printed in sorted
