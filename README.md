@@ -63,4 +63,4 @@ The goal of this project is to use Elixir and the actor model to build a good so
   4. The list of numbers is not printed in sorted
  
 4.bonus part 
-  bonus part is for multiple machines.
+  Codes in bonusproj1/ is for multiple machines.
