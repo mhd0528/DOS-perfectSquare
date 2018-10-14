@@ -52,14 +52,13 @@ Nonumberwasprinted.Thismeansthatthereareno4consecutivenumberswhosesum of squares
 When only ‘End of Output’ is printed, it means no number was printed.
 
 3.output format
-  1. For Ubuntu basedsystems
-  1.First all the start indices which follow the Lucas Square Pyramid Principle will be displayed line by
+  1. First all the start indices which follow the Lucas Square Pyramid Principle will be displayed line by
   
-  2.Then &#39;End of Output&#39; is
+  2. Then &#39;End of Output&#39; is
   
-  3.When only ‘End of Output’ is printed, it means no number was printed.
+  3. When only ‘End of Output’ is printed, it means no number was printed.
   
-  4.The list of numbers is not printed in sorted
+  4. The list of numbers is not printed in sorted
  
 4.bonus part 
   bonus part is for multiple machines.
