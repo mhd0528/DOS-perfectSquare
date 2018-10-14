@@ -47,9 +47,9 @@ The goal of this project is to use Elixir and the actor model to build a good so
     6. General command: escript .\project1 <n> <k>
 
 2.Result of running the program
-  Command given:   ./project1 1000000 4
-  No number was printed.This means that there are no 4 consecutiv numbers whose sum of squares is a perfectsquare.
-  When only ‘End of Output’ is printed, it means no number was printed.
+  1) Command given:   ./project1 1000000 4
+  2) No number was printed.This means that there are no 4 consecutiv numbers whose sum of squares is a perfectsquare.
+  3) When only ‘End of Output’ is printed, it means no number was printed.
 
 3.output format
   1. First all the start indices which follow the Lucas Square Pyramid Principle will be displayed line by
