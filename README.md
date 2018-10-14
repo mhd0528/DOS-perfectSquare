@@ -56,3 +56,6 @@ When only ‘End of Output’ is printed, it means no number was printed.
  2.Then &#39;End of Output&#39; is
  3.When only ‘End of Output’ is printed, it means no number was printed.
  4.The list of numbers is not printed in sorted
+ 
+4.bonus part 
+  bonus part is for multiple machines.
