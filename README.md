@@ -52,7 +52,6 @@ Nonumberwasprinted.Thismeansthatthereareno4consecutivenumberswhosesum of squares
 When only ‘End of Output’ is printed, it means no number was printed.
 
 3.OutputFormat
-  
   1.First all the start indices which follow the Lucas Square Pyramid Principle will be displayed line by
   
   2.Then &#39;End of Output&#39; is
