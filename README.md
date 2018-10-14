@@ -10,7 +10,7 @@ An interesting problem in arithmetic with deep implications to _elliptic curve t
 
 3^2 + 4^2 = 5^2	(1)
 
-that reveals that the sum of squares of 3_,_ 4 is itself a square. A more interesting example is Lucas&#39; _Square Pyramid_ :
+that reveals that the sum of squares of 3, 4 is itself a square. A more interesting example is Lucas&#39; _Square Pyramid_ :
 
 1^2 + 2^2 + ... + 24^2 = 702	(2)
 
