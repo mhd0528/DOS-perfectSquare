@@ -46,7 +46,7 @@ The goal of this project is to use Elixir and the actor model to build a good so
     5. Here the second command line argument is the value of ‘k’
     6. General command: escript .\project1 <n> <k>
 
-2.Result of running theprogram
+2.Result of running the program
 Command given:   ./project1 1000000 4
 Nonumberwasprinted.Thismeansthatthereareno4consecutivenumberswhosesum of squares is a perfectsquare.
 When only ‘End of Output’ is printed, it means no number was printed.
@@ -54,7 +54,7 @@ When only ‘End of Output’ is printed, it means no number was printed.
 3.output format
   1. First all the start indices which follow the Lucas Square Pyramid Principle will be displayed line by
   
-  2. Then &#39;End of Output&#39; is
+  2. Then &#39;End of Output&#39; is printed.
   
   3. When only ‘End of Output’ is printed, it means no number was printed.
   
