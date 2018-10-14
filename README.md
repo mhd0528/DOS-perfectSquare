@@ -45,6 +45,7 @@ The goal of this project is to use Elixir and the actor model to build a good so
     4. Here the first command line argument is the value of ‘n’
     5. Here the second command line argument is the value of ‘k’
     6. General command: escript .\project1 <n> <k>
+
 2.Result of running theprogram
 Command given:   ./project1 1000000 4
 Nonumberwasprinted.Thismeansthatthereareno4consecutivenumberswhosesum of squares is a perfectsquare.
