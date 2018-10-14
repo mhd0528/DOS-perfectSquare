@@ -51,7 +51,8 @@ Command given:   ./project1 1000000 4
 Nonumberwasprinted.Thismeansthatthereareno4consecutivenumberswhosesum of squares is a perfectsquare.
 When only ‘End of Output’ is printed, it means no number was printed.
 
-3.OutputFormat
+3.output format
+  1. For Ubuntu basedsystems
   1.First all the start indices which follow the Lucas Square Pyramid Principle will be displayed line by
   
   2.Then &#39;End of Output&#39; is
