@@ -28,7 +28,7 @@ The goal of this project is to use Elixir and the actor model to build a good so
 
 # Results:
 
-1.Instructions for running thecode
+1. Instructions for running thecode
   1. For Ubuntu basedsystems
     
     1. Go the project directory
@@ -48,10 +48,11 @@ The goal of this project is to use Elixir and the actor model to build a good so
     5. Here the second command line argument is the value of ‘k’
     6. General command: escript .\project1 <n> <k>
 
-2.Result of running the program
-  a) Command given:   ./project1 1000000 4
-  b) No number was printed.This means that there are no 4 consecutiv numbers whose sum of squares is a perfectsquare.
-  c) When only ‘End of Output’ is printed, it means no number was printed.
+2. Result of running the program
+  
+  1. Command given:   ./project1 1000000 4
+  2. No number was printed.This means that there are no 4 consecutiv numbers whose sum of squares is a perfectsquare.
+  3. When only ‘End of Output’ is printed, it means no number was printed.
 
 3.output format
   1. First all the start indices which follow the Lucas Square Pyramid Principle will be displayed line by
